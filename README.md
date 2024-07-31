@@ -7,10 +7,16 @@ The dashboard visualizes and allows for the analysis of data on road accidents i
 - Franciszek Saliński
 - Bartosz Szymański
 
-  ## Used technologies
-  - python
-  - numpy, pandas, geopandas
-  - plotly
-  - dash
- 
+## Used technologies
+- python
+- numpy, pandas, geopandas
+- plotly
+- dash
+
+## Final effect
+
+![app](./img/app4.png)
+![app](./img/app5.png)
+![app](./img/app3.png)
+![app](./img/app2.png)
   
